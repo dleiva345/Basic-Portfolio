@@ -2,8 +2,7 @@
 
 ### Overview 
 This assigmnet was my first attempt in building a professional porfolio using only HTML/CSS. 
-This was a very tough assignment when I first started working on it because I didn't fully understand
-the concepts of: float, padding, margin, overflow, and clear. It was also my first attempt in navigating the git commit line and 
+concepts included: float, padding, margin, overflow, and clear
 
 ### Instructions 
 1. Create a new repository in GitHub called `Basic-Portfolio`.
